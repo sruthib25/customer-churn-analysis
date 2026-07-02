@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Churn Analysis
 
 This project analyzes customer churn using the IBM Telco Customer Churn dataset.
